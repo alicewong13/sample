@@ -18,29 +18,56 @@ html {
 h1,
 h2,
 h3,
-h4 {
-  line-height: 1.2;
+h4,
+p,
+ul {
+  line-height: 1.5;
   color: var(--clr-fg-alt);
 }
 
 h1 {
   font-size: 4rem;
 }
-
+@media (max-width: 600px) {
+  h1 {
+    font-size: 3.2rem;
+  }
+}
 h2 {
   font-size: 2rem;
 }
-
+@media (max-width: 600px) {
+  h2 {
+    font-size: 1.6rem;
+  }
+}
 h3 {
   font-size: 1.5rem;
 }
+@media (max-width: 600px) {
+  h3 {
+    font-size: 1.2rem;
+  }
+}
 
 h4 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
+}
+@media (max-width: 600px) {
+  h4 {
+    font-size: .96rem;
+  }
+}
+
+ul,
+ol {
+  list-style-position: inside;
+  margin-left: 1.25em;
+  padding-left: 0;
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: circle;
 }
 
 a {

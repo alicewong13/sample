@@ -10,7 +10,7 @@
   --clr-bg-alt: #fff;
   --clr-fg: #555;
   --clr-fg-alt: #444;
-  --clr-primary: #2978b5;
+  --clr-primary: #1b2975;
   --shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
@@ -24,11 +24,6 @@
     rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 
-main {
-  max-width: 1100px;
-  width: 95%;
-  margin: 0 auto;
-}
 
 .section {
   margin-top: 5em;
