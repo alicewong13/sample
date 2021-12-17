@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alicewong13/sample.git/static/css/main.862dda1d.chunk.css",
+    "main.js": "/alicewong13/sample.git/static/js/main.a4a24714.chunk.js",
+    "main.js.map": "/alicewong13/sample.git/static/js/main.a4a24714.chunk.js.map",
+    "runtime-main.js": "/alicewong13/sample.git/static/js/runtime-main.a7139530.js",
+    "runtime-main.js.map": "/alicewong13/sample.git/static/js/runtime-main.a7139530.js.map",
+    "static/js/2.f6565c4d.chunk.js": "/alicewong13/sample.git/static/js/2.f6565c4d.chunk.js",
+    "static/js/2.f6565c4d.chunk.js.map": "/alicewong13/sample.git/static/js/2.f6565c4d.chunk.js.map",
+    "index.html": "/alicewong13/sample.git/index.html",
+    "static/css/main.862dda1d.chunk.css.map": "/alicewong13/sample.git/static/css/main.862dda1d.chunk.css.map",
+    "static/js/2.f6565c4d.chunk.js.LICENSE.txt": "/alicewong13/sample.git/static/js/2.f6565c4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7139530.js",
+    "static/js/2.f6565c4d.chunk.js",
+    "static/css/main.862dda1d.chunk.css",
+    "static/js/main.a4a24714.chunk.js"
+  ]
+}
